@@ -75,7 +75,7 @@
 
 ## Notes
 * This is a template. You can customize it, add or remove courses as per your choices, or change the course order.
-* I would love to be part of your learning journey. You can find me on twitter : [Shovan Chatterjee](twitter.com/shovan_ch)
+* I would love to be part of your learning journey. You can find me on twitter : [Shovan Chatterjee](https://twitter.com/shovan_ch)
 
 ## Attribution
 Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
