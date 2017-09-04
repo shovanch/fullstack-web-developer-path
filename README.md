@@ -68,10 +68,10 @@
 
 
 ## Goals
-* Learn about build tools like Gulp and include them in projects
-* Every week, write a medium article about that week's learnings.
+* Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
+* Every week, write a medium post about that week's learnings.
 * Learn about linting. Use linters like [ESLint](https://eslint.org/) for Javascript , [Stylelint](https://stylelint.io/) for CSS in your projects.
-* Learn about CSS conventions like BEM, SMACSS.
+* Learn about CSS conventions like [BEM](http://getbem.com/introduction/), [SMACSS](https://smacss.com/book/).
 
 ## Notes
 * This is a template. You can customize it, add or remove courses as per your choices, or change the course order.
