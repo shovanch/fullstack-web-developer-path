@@ -1,6 +1,6 @@
 # Full Stack Web Developer Path
 
-## [Coding log](https://github.com/shovanch/web-developer-path-my-progress/blob/master/log.md)
+## [Coding log](log.md)
 
 ## The Fundamentals
 
