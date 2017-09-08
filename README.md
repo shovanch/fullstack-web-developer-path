@@ -75,6 +75,8 @@
 
 ## Notes
 * This is a template. You can customize it, add or remove courses as per your choices, or change the course order.
+* To start using, Fork the repo.
+* If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
 * I would love to be part of your learning journey. You can find me on twitter : **[Shovan Chatterjee](https://twitter.com/shovan_ch)**
 
 ## Attribution
