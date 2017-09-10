@@ -73,6 +73,8 @@
 * Learn about linting. Use linters like [ESLint](https://eslint.org/) for Javascript , [Stylelint](https://stylelint.io/) for CSS in your projects.
 * Learn about CSS conventions like [BEM](http://getbem.com/introduction/), [SMACSS](https://smacss.com/book/).
 
+## [Example Repo](https://github.com/shovanch/web-developer-journey)
+
 ## Notes
 * This is a template. You can customize it, add or remove courses as per your choices, or change the course order.
 * To start using, Fork the repo.
