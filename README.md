@@ -53,7 +53,7 @@
 ## Backend
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | [Learn Node - Wes Bos](nnode.com) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
+|   | Course | [Learn Node - Wes Bos](https://learnnode.com/) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
 |   | Project | FCC Backend - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
 |   | Project | FCC Backend - [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) |   |    |
 |   | Project | FCC Backend - [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) |   |    |
