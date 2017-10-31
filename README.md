@@ -13,10 +13,10 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | :------: | ------ | ------ | ------------ | :-------: |
 | DONE | Course | Learn to use [Command line](https://commandlinepoweruser.com/)| X | 2007 |
 | DONE | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|  X |  2017  |
+| DONE | Course | Learn JavaScript - [Codecademy](http://codecademy.com/courses/learn-javascript) |   |    |
 | Will begin in 2018 | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
 | 75% | Course |Shay Howe's [HTML/CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 | 29% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-| 12% | Course | Learn JavaScript - [Codecademy](http://codecademy.com/courses/learn-javascript) |   |    |
 |   | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
@@ -45,6 +45,11 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
 |   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
 |   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
+
+## Angular
+
+| Progress | Type | Item | Project(s) | Date |
+|:------:|------|------|------------|:-------:|
 
 
 ## React
