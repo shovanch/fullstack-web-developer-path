@@ -14,9 +14,11 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | DONE | Course | Learn to use [Command line](https://commandlinepoweruser.com/)| X | 2007 |
 | DONE | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|  X |  2017  |
 | Will begin in 2018 | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
-|  | Course |Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
-|  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-|   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
+| 75% | Course |Shay Howe's [HTML/CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
+| 29% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+| 12% | Course | Learn JavaScript - [Codecademy](http://codecademy.com/courses/learn-javascript) |   |    |
+|   | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
+|   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
