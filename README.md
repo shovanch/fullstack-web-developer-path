@@ -17,6 +17,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | DONE | Course | Learn JavaScript - [Codecademy](http://codecademy.com/courses/learn-javascript) |  X |   2017 |
 | 75% | Course |Shay Howe's [HTML/CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 | 29% | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+|   | Course | FCC JavaScript - [FCC JavaScript](http://freecodecamp.com/) |   |    |
 |   | Course | Learn Flexbox - [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/)|   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
@@ -46,10 +47,6 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
 |   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
 
-## Angular
-
-| Progress | Type | Item | Project(s) | Date |
-|:------:|------|------|------------|:-------:|
 
 
 ## React
@@ -62,6 +59,11 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
 |   | Project |  Clone the Netflix interface using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
 |   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
+
+## Angular
+
+| Progress | Type | Item | Project(s) | Date |
+|:------:|------|------|------------|:-------:|
 
 ## Backend (Node)
 | Progress | Type | Item | Project(s) | Date |
