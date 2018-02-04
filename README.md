@@ -86,7 +86,6 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## How to use the guide
 * To start using the guide, fork the repo.
-* See [example repo](https://github.com/shovanch/web-developer-journey) for how to fill it up
 
 ## Notes
 * This is a template. You can customize it, add or remove courses as per your choices.
