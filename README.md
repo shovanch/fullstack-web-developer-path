@@ -1,4 +1,24 @@
-# Full Stack Web Developer Path
+<h1 align="center">
+<br>
+  <a href="https://github.com/shovanch/fullstack-web-developer-path"><img src="https://user-images.githubusercontent.com/6176598/47601944-00e4a700-d9f5-11e8-9820-82386ef4b0ca.jpg" alt="Full Stack Web Developer Path" width="170"></a>
+  <br>
+    <br>
+  Full Stack Web Developer Path
+  <br>
+</h1>
+
+<p align="center">🎮 This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. </p>
+<p align="center">The idea behind this repo is, to have a place to log the learning process in an organized way.</p>
+<p align="center">This can be used as a companion to <a href="https://www.freecodecamp.org/" rel="nofollow">FreeCodeCamp</a> curriculum.</p>
+
+<p align="center">
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="Licence MIT">
+  </a>
+</p>
 
 ## [Coding log](log.md)
 
@@ -79,7 +99,8 @@
 * This is a template. You can customize it, add or remove courses as per your choices, or change the course order.
 * To start using, Fork the repo.
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
-* I would love to be part of your learning journey. You can find me on twitter : **[Shovan Chatterjee](https://twitter.com/shovan_ch)**
+
+<p><em><g-emoji class="g-emoji" alias="wave" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44b.png"><img class="emoji" alt="wave" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44b.png"></g-emoji> Follow Shovan on Twitter</em> — <a href="https://twitter.com/shovan_ch?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @shovan_ch</a></p>
 
 ## Attribution
 Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
