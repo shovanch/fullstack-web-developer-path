@@ -39,11 +39,11 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
 |   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) (Paid) |   |
 |   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
-|   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
-|   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
-|   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
-|   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
-|   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
+|   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md#you-dont-know-js-yet-scope--closures---2nd-edition) |   |    |
+|   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/this-object-prototypes/README.md#you-dont-know-js-yet-this--object-prototypes---2nd-edition) |   |    |
+|   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md#you-dont-know-js-yet-types--grammar---2nd-edition) |   |    |
+|   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/async-performance/README.md#you-dont-know-js-yet-async--performance---2nd-edition) |   |    |
+|   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/es-next-beyond/README.md#you-dont-know-js-yet-esnext--beyond---2nd-edition) |   |    |
 
 
 ## React
