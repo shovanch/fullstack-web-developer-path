@@ -1,23 +1,22 @@
 # Full Stack Web Developer Path
-This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. <br>
-The idea behind this repo is, to have a place to log the learning process in an organized way.  <br><br>
-This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/) curriculum
+This plan is used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/) curriculum
 
 ------
-
-## [Coding log](log.md)
 
 ## The Fundamentals
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course |  [CodeCademy](https://www.codecademy.com/learn/make-a-website) How to Make a Website with NameCheap Course |    |   |
+|  | Course |  [How to Make a Website with NameCheap Course](https://www.codecademy.com/learn/make-a-website) - course by CodeAcademyy  |   | 26.06.20  |
+|  | Challange Game |  [CSS Diner](http://flukeout.github.io) - For practice with CSS. It’s a fun CSS challenge game  |    |   |
+|  | Tutorial |  [LearnLayout](http://learnlayout.com) - an interactive tutorial that shows how to create layouts with HTML and CSS  |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+|  | Challenge | Practice HTML and CSS and create a basic progress portfolio |   |    |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
-|  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
+|  | Challenge | Refactor the portfolio site and Base Apparel coming soon page layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
