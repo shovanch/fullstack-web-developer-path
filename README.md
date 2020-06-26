@@ -3,12 +3,12 @@ This plan is used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/
 
 ------
 
-## The Fundamentals
+## HTML & CSS
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
 |  | Course |  [How to Make a Website with NameCheap Course](https://www.codecademy.com/learn/make-a-website) - course by CodeAcademyy  |   | 26.06.20  |
-|  | Challange Game |  [CSS Diner](http://flukeout.github.io) - For practice with CSS. It’s a fun CSS challenge game  |    |   |
+|  | Challenge Game |  [CSS Diner](http://flukeout.github.io) - For practice with CSS. It’s a fun CSS challenge game  |    |   |
 |  | Tutorial |  [LearnLayout](http://learnlayout.com) - an interactive tutorial that shows how to create layouts with HTML and CSS  |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |  | Challenge | Practice HTML and CSS and create a basic progress portfolio |   |    |
@@ -17,6 +17,9 @@ This plan is used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Challenge | Refactor the portfolio site and Base Apparel coming soon page layout and CSS using Flexbox and Sass |   |    |
+
+## Javascript
+
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
