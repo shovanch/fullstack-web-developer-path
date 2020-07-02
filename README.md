@@ -17,7 +17,7 @@ This plan is used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |   | Course | Udemy course - Advanced CSS and Sass: Flexbox, Grid, Animations and More!- [Advanced CSS and Sass](https://www.udemy.com/share/101WmqBEYTcFpRQ3Q=/) |   |    |
-|  | Challenge | Refactor the portfolio site and Base Apparel coming soon page layout and CSS using Flexbox and Sass |   |    |
+|  | Challenge | Refactor the portfolio site and Base Apparel coming soon page using Advanced CSS, Flexbox and Sass |   |    |
 
 ## Javascript
 
