@@ -7,8 +7,8 @@ This plan is used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course |  [How to Make a Website with NameCheap Course](https://www.codecademy.com/learn/make-a-website) - course by CodeAcademyy  |   | 26.06.20  |
-|  | Challenge Game |  [CSS Diner](http://flukeout.github.io) - For practice with CSS. It’s a fun CSS challenge game  |    |   |
+|  | Course |  [How to Make a Website with NameCheap Course](https://www.codecademy.com/learn/make-a-website) - course by CodeAcademyy  | [Common Cents Party] (https://gist.github.com/codecademydev/a8211a5e9ef2cbe5b6b70200c6eb82ee)   | 26.06.20  |
+|  | Challenge Game |  [CSS Diner](http://flukeout.github.io) - For practice with CSS. It’s a fun CSS challenge game  |    | 02.07.20 |
 |  | Tutorial |  [LearnLayout](http://learnlayout.com) - an interactive tutorial that shows how to create layouts with HTML and CSS  |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |  | Challenge | Practice HTML and CSS and create a basic progress portfolio |   |    |
@@ -16,10 +16,13 @@ This plan is used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
+|   | Course | Udemy course - Advanced CSS and Sass: Flexbox, Grid, Animations and More!- [Advanced CSS and Sass](https://www.udemy.com/share/101WmqBEYTcFpRQ3Q=/) |   |    |
 |  | Challenge | Refactor the portfolio site and Base Apparel coming soon page layout and CSS using Flexbox and Sass |   |    |
 
 ## Javascript
 
+| Progress | Type | Item | Project(s) | Date |
+| :------: | ------ | ------ | ------------ | :-------: |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
