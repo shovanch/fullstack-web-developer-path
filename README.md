@@ -7,7 +7,7 @@ This plan is used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course |  [How to Make a Website with NameCheap Coursee](https://www.codecademy.com/learn/make-a-website) - course by CodeAcademyy  | [Common Cents Party] (https://gist.github.com/codecademydev/a8211a5e9ef2cbe5b6b70200c6eb82ee)   | 26.06.20  |
+|  | Course |  [How to Make a Website with NameCheap Coursee](https://www.codecademy.com/learn/make-a-website) - course by CodeAcademyy  | [Common Cents Party](https://gist.github.com/codecademydev/a8211a5e9ef2cbe5b6b70200c6eb82ee)   | 26.06.20  |
 |  | Challenge Game |  [CSS Diner](http://flukeout.github.io) - For practice with CSS. It’s a fun CSS challenge game  |    | 02.07.20 |
 |  | Tutorial |  [LearnLayout](http://learnlayout.com) - an interactive tutorial that shows how to create layouts with HTML and CSS  |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
